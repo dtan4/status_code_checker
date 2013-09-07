@@ -1,4 +1,5 @@
 {
+    "manifest_version": 2,
     "name": "Status Code Checker",
     "version": "1.0",
     "description": "Show HTTP status code"
