@@ -12,6 +12,9 @@
         ]
     },
     "permissions": [
+        "webRequest",
+        "http://*/*",
+        "https://*/*",
         "tabs"
     ]
 }
